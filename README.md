@@ -1,1 +1,1 @@
-# flaubert_bovary
+# Analysing Gustave Flaubert's Madame Bovary
